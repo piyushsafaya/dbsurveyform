@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/grigorz/.android/build-cache/2174b7a0bb3194c51f539c357efdea4b2bdbbf49/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

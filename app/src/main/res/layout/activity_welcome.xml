@@ -1,0 +1,144 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="municipality.dubai.com.welcometodubaimunicipalityevent.ActivityWelcome">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <TextView
+        android:id="@+id/welcome_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_welcome_text_bottom"
+        android:layout_marginEnd="@dimen/margin_welcome_text"
+        android:layout_marginLeft="@dimen/margin_welcome_text"
+        android:layout_marginRight="@dimen/margin_welcome_text"
+        android:layout_marginStart="@dimen/margin_welcome_text"
+        android:layout_marginTop="@dimen/margin_welcome_text"
+        android:width="704dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:lineSpacingMultiplier="1.33"
+        android:text="@string/welcome_text"
+        android:textColor="#DE000000"
+        android:textSize="48sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:orientation="horizontal"
+        android:id="@+id/client_name"
+        android:layout_marginTop="@dimen/margin_welcome_client_logo_top"
+        android:layout_marginBottom="@dimen/margin_welcome_client_name_bottom">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="108dp"
+            android:src="@drawable/logo1"
+            android:adjustViewBounds="true"
+            android:layout_marginRight="200dp"
+            android:layout_marginEnd="200dp"/>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="128dp"
+            android:src="@drawable/logo" />
+
+
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/image_1_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/client_name"
+        android:layout_marginBottom="@dimen/margin_welcome_image"
+        android:orientation="horizontal">
+
+        <ImageView
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin_welcome_image"
+            android:layout_marginRight="@dimen/margin_welcome_image"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image_1" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_welcome_image"
+            android:layout_marginStart="@dimen/margin_welcome_image"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image_2" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/image_2_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_1_row"
+        android:layout_marginTop="@dimen/margin_welcome_image"
+        android:orientation="horizontal">
+
+        <ImageView
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin_welcome_image"
+            android:layout_marginRight="@dimen/margin_welcome_image"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image_3" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_welcome_image"
+            android:layout_marginStart="@dimen/margin_welcome_image"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image_4" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/start_quiz"
+        android:layout_width="416dp"
+        android:layout_height="96dp"
+        android:layout_below="@id/image_2_row"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="@dimen/margin_welcome_button_side"
+        android:layout_marginLeft="@dimen/margin_welcome_button_side"
+        android:layout_marginRight="@dimen/margin_welcome_button_side"
+        android:layout_marginStart="@dimen/margin_welcome_button_side"
+        android:layout_marginTop="@dimen/margin_welcome_button"
+        android:background="@drawable/welcome_button"
+        android:paddingBottom="@dimen/padding_welcome_button"
+        android:paddingTop="@dimen/padding_welcome_button"
+        android:text="@string/welcome_button"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:fontFamily="sans-serif"
+        android:textSize="36sp" />
+
+
+</RelativeLayout>

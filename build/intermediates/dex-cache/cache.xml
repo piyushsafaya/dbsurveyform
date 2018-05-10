@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/grigorz/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/build/intermediates/pre-dexed/debug/gson-2.8.1_f42d8369f6450bc70f2ab353a711e0614314f206.jar" />
+    </item>
+
+</items>

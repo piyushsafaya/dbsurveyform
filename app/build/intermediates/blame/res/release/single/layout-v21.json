@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

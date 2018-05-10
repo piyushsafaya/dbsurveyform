@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Welcome to Dubai Municipality Event</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="welcome_text">Welcome to the Go Wild Dubai Quiz</string>
+    <string name="client_name">Client name</string>
+    <string name="welcome_button">LET’S GET STARTED</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exit">Exit</string>
+    <string name="next_quiz">Next Question</string>
+    <string name="correct_answer">You’re right!</string>
+    <string name="wrong_answer">This is not the right answer</string>
+    <string name="want_to_know_right_answers">Want to know the right answers?</string>
+    <string name="click_here">Click here</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="you_got">You got</string>
+    <string name="of">of</string>
+    <string name="right">right!</string>
+    <string name="awesome">Awesome!</string>
+</resources>

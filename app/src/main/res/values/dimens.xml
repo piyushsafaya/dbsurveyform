@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin_welcome_text">48dp</dimen>
+    <dimen name="margin_welcome_text_bottom">32dp</dimen>
+    <dimen name="margin_welcome_client_name_bottom">56dp</dimen>
+    <dimen name="margin_welcome_image">2dp</dimen>
+    <dimen name="padding_welcome_button">24dp</dimen>
+    <dimen name="margin_welcome_button">36dp</dimen>
+    <dimen name="margin_welcome_button_side">192dp</dimen>
+    <dimen name="margin_quiz_question">48dp</dimen>
+    <dimen name="margin_quiz_exit">48dp</dimen>
+    <dimen name="margin_quiz_exit_bottom">36dp</dimen>
+    <dimen name="margin_quiz_item">48dp</dimen>
+    <dimen name="margin_quiz_item_bottom">52dp</dimen>
+    <dimen name="margin_quiz_recycler">330dp</dimen>
+    <dimen name="margin_quiz_answer">32dp</dimen>
+    <dimen name="margin_quiz_results">64dp</dimen>
+    <dimen name="margin_quiz_results_button_top">64dp</dimen>
+    <dimen name="margin_welcome_client_logo_top">130dp</dimen>
+</resources>

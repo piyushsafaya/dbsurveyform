@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:lineSpacingMultiplier="1.40"
+        android:textColor="#DE000000"
+        android:textSize="40sp"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="@dimen/margin_quiz_question"
+        android:layout_marginLeft="@dimen/margin_quiz_question"
+        android:layout_marginStart="@dimen/margin_quiz_question"
+        android:layout_marginRight="@dimen/margin_quiz_question"
+        android:layout_marginEnd="@dimen/margin_quiz_question" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_possible_answers"
+        android:layout_marginTop="@dimen/margin_quiz_recycler"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/question_possible_answers"
+        android:layout_above="@+id/bottom_view"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="24dp"
+            android:textSize="40sp"
+            android:fontFamily="sans-serif"
+            android:id="@+id/result"
+            android:background="@drawable/exit_button"
+            android:gravity="center"
+            android:visibility="invisible"/>
+
+    </LinearLayout>
+
+
+    
+    <Button
+        android:id="@+id/bottom_view"
+        android:layout_width="146dp"
+        android:layout_height="96dp"
+        android:text="@string/exit"
+        android:textSize="36sp"
+        android:textColor="#FF2196F3"
+        android:textAllCaps="true"
+        android:fontFamily="sans-serif"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="@dimen/margin_quiz_exit"
+        android:layout_marginLeft="@dimen/margin_quiz_exit"
+        android:layout_marginBottom="@dimen/margin_quiz_exit_bottom"
+        android:background="@drawable/exit_button"
+        android:onClick="onExitClicked"/>
+
+    <!--
+
+
+    -->
+
+
+
+
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="352dp"
+        android:layout_height="96dp"
+        android:text="@string/next_quiz"
+        android:textSize="36sp"
+        android:textColor="#FFFFFFFF"
+        android:textAllCaps="true"
+        android:fontFamily="sans-serif"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/margin_quiz_exit"
+        android:layout_marginRight="@dimen/margin_quiz_exit"
+        android:layout_marginBottom="@dimen/margin_quiz_exit_bottom"
+        android:background="@drawable/next_button"
+        android:theme="@style/AppTheme.Button.GetStart"
+        android:onClick="onNextClicked"
+        android:clickable="false"/>
+
+
+</RelativeLayout>

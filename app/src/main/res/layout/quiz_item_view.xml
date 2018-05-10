@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/list_item">
+
+    <TextView
+        android:id="@+id/possible_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/margin_quiz_item"
+        android:paddingLeft="@dimen/margin_quiz_item"
+        android:paddingStart="@dimen/margin_quiz_item"
+        android:paddingRight="@dimen/margin_quiz_item"
+        android:paddingEnd="@dimen/margin_quiz_item"
+        android:paddingBottom="@dimen/margin_quiz_item_bottom"
+        android:textColor="#DE000000"
+        android:textSize="32sp"
+        android:fontFamily="sans-serif"
+        android:lineSpacingMultiplier="1.50"
+        android:background="@android:color/white"
+        android:layout_marginBottom="4dp"/>
+
+</LinearLayout>

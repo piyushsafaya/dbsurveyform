@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:3:5-69
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/grigorz/.android/build-cache/4fab64013662a8ace9384b7573ccd1a50183d21e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/grigorz/.android/build-cache/538929c3fde71a47677eddb1941008d4c5684493/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/grigorz/.android/build-cache/1c6aacea955c566874fb007b5afc8ad177883814/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/grigorz/.android/build-cache/b7114b5005f8acc18a5ec8286e45e056d988c9c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/grigorz/.android/build-cache/e9fe5387e6d6c5999582895fcdeefe3a7e56fc15/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/grigorz/.android/build-cache/81eec3ba23f757f5eaf5c690dd6978fb214be9f9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/grigorz/.android/build-cache/8b1c95c59722f6bb469c93a482999c69b4d1b768/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/grigorz/.android/build-cache/def258bbd38f640f57668cae65a32281ca7d7a1b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/grigorz/.android/build-cache/75071348a385b9b560b2172f73dc0311971b2964/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:11:9-40
+activity#municipality.dubai.com.welcometodubaimunicipalityevent.ActivityWelcome
+ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:12:51-87
+	android:name
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:12:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:16:27-74
+activity#municipality.dubai.com.welcometodubaimunicipalityevent.QuizActivity
+ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:19:9-96
+	android:screenOrientation
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:19:48-84
+	android:name
+		ADDED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/grigorz/.android/build-cache/4fab64013662a8ace9384b7573ccd1a50183d21e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/grigorz/.android/build-cache/538929c3fde71a47677eddb1941008d4c5684493/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/grigorz/.android/build-cache/1c6aacea955c566874fb007b5afc8ad177883814/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/grigorz/.android/build-cache/b7114b5005f8acc18a5ec8286e45e056d988c9c5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/grigorz/.android/build-cache/e9fe5387e6d6c5999582895fcdeefe3a7e56fc15/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/grigorz/.android/build-cache/81eec3ba23f757f5eaf5c690dd6978fb214be9f9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/grigorz/.android/build-cache/8b1c95c59722f6bb469c93a482999c69b4d1b768/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/grigorz/.android/build-cache/82b5cba2ff66b1c05e8e1664f963bcc20f92a74c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/grigorz/.android/build-cache/def258bbd38f640f57668cae65a32281ca7d7a1b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/grigorz/.android/build-cache/75071348a385b9b560b2172f73dc0311971b2964/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/grigorz/Documents/android_workspace/android-play-location-master/Piyush/WelcometoDubaiMunicipalityEvent/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/grigorz/.android/build-cache/4fab64013662a8ace9384b7573ccd1a50183d21e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/grigorz/.android/build-cache/538929c3fde71a47677eddb1941008d4c5684493/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/grigorz/.android/build-cache/1c6aacea955c566874fb007b5afc8ad177883814/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/grigorz/.android/build-cache/b7114b5005f8acc18a5ec8286e45e056d988c9c5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/grigorz/.android/build-cache/e9fe5387e6d6c5999582895fcdeefe3a7e56fc15/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/grigorz/.android/build-cache/81eec3ba23f757f5eaf5c690dd6978fb214be9f9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/grigorz/.android/build-cache/82b5cba2ff66b1c05e8e1664f963bcc20f92a74c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/grigorz/.android/build-cache/def258bbd38f640f57668cae65a32281ca7d7a1b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/grigorz/.android/build-cache/75071348a385b9b560b2172f73dc0311971b2964/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/grigorz/.android/build-cache/095f50182c12353afc50feb6a6b1a02d14911f5c/output/AndroidManifest.xml:26:9-47
